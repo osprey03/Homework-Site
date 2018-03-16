@@ -1,0 +1,23 @@
+h1 {
+  border: 5px solid;
+  border-radius: 25px;
+  color: black;
+  text-align: center;
+}
+img {
+  border: 5px solid;
+  border-radius: 25px;
+  background-color: black;
+  padding: 30px;
+  height: auto;
+  width: auto;
+}
+body {
+  background-color: orange;
+}
+h3 {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
